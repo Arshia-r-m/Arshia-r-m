@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arshia-r-m
 - 👀 I’m interested in Web development and ML
-- 🌱 I’m currently learning Dart
+- 🌱 I’m currently learning Linux :)
 - 📫 How to reach me Email: Ramezan.mahmoodi.arshia@gmail.com
 
 <!---
