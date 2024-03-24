@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arshia-r-m
-- 👀 I’m interested in Web development and ML
-- 🌱 I’m currently learning Linux :)
+- 👀 I’m interested in Web development and system administrator
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me Email: Ramezan.mahmoodi.arshia@gmail.com
 
 <!---
