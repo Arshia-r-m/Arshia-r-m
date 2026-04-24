@@ -91,6 +91,10 @@ Building [**Financial-tracker**](https://github.com/Arshia-r-m/Financial-tracker
   <img src="https://github-profile-trophy.vercel.app/?username=Arshia-r-m&theme=tokyonight&no-frame=true&column=7" alt="GitHub trophies" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arshia-r-m&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+</p>
+
 ---
 
 ## 📫 How to reach me
